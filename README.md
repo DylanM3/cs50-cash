@@ -24,6 +24,5 @@ A command-line change calculator written in C and Python that calculates the min
 
 #
 
-Developed as part of the curriculum for [Harvard University's CS50X: Introduction to Computer Science](https://cs50.harvard.edu/x/2025/psets/1/cash/)
 - [CS50 Cash (C)](https://cs50.harvard.edu/x/2025/psets/1/cash/)
 - [CS50 Cash (Python)](https://cs50.harvard.edu/x/2025/psets/6/cash/)
